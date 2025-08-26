@@ -1,4 +1,4 @@
-package io.kuenzler.whatsappwebtogo;
+package io.kuenzler.whatssafe;
 
 import android.Manifest;
 import android.app.Activity;
